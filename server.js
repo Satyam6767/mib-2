@@ -5,8 +5,12 @@ const Person = require('./models/Person')
 const db = require('./db')
 
 
+
 const PORT = process.env.PORT || 9000
-require('dotenv').config();
+
+
+
+
 
 
 
